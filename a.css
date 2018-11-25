@@ -1,0 +1,39 @@
+.taiji {width:400px;height:400px;position:relative;margin:50px auto;border-radius:400px;background-color:#000;box-shadow:0 0 50px rgba(0,0,0,.8);}
+.taiji {width:400px;height:400px;position:relative;margin:50px auto;border-radius:400px;background-color:#000;box-shadow:0 0 50px rgba(0,0,0,.8);}
+.taiji:before,
+.taiji:after {width:200px;height:400px;position:absolute;top:0;display:block;content:"";}
+.taiji:before {left:0;border-radius:200px 0 0 200px;background-color:#000;}
+.taiji:after {right:0;border-radius:0 200px 200px 0;background-color:#fff;}
+
+.taiji {width:400px;height:400px;position:relative;margin:50px auto;border-radius:400px;background-color:#000;box-shadow:0 0 50px rgba(0,0,0,.8);}
+.taiji:before,
+.taiji:after {width:200px;height:400px;position:absolute;top:0;display:block;content:"";}
+.taiji:before {left:0;border-radius:200px 0 0 200px;background-color:#000;}
+.taiji:after {right:0;border-radius:0 200px 200px 0;background-color:#fff;}
+.circle-01,
+.circle-02 {width:200px;height:200px;position:absolute;z-index:2;border-radius:300px;}
+.circle-01 {top:0;left:100px;background-color:#000;}
+
+.taiji {width:400px;height:400px;position:relative;margin:50px auto;border-radius:400px;background-color:#000;box-shadow:0 0 50px rgba(0,0,0,.8);}
+.taiji:before,
+.taiji:after {width:200px;height:400px;position:absolute;top:0;display:block;content:"";}
+.taiji:before {left:0;border-radius:200px 0 0 200px;background-color:#000;}
+.taiji:after {right:0;border-radius:0 200px 200px 0;background-color:#fff;}
+.circle-01,
+.circle-02 {width:200px;height:200px;position:absolute;z-index:2;border-radius:300px;}
+.circle-01 {top:0;left:100px;background-color:#000;}
+.circle-02 {bottom:0;right:100px;background-color:#fff;}
+
+.taiji {width:400px;height:400px;position:relative;margin:50px auto;border-radius:400px;background-color:#000;box-shadow:0 0 50px rgba(0,0,0,.8);}
+.taiji:before,
+.taiji:after {width:200px;height:400px;position:absolute;top:0;display:block;content:"";}
+.taiji:before {left:0;border-radius:200px 0 0 200px;background-color:#000;}
+.taiji:after {right:0;border-radius:0 200px 200px 0;background-color:#fff;}
+.circle-01,
+.circle-02 {width:200px;height:200px;position:absolute;z-index:2;border-radius:300px;}
+.circle-01 {top:0;left:100px;background-color:#000;}
+.circle-02 {bottom:0;right:100px;background-color:#fff;}
+.circle-01:after,
+.circle-02:after {width:75px;height:75px;position:absolute;z-index:3;display:block;content:"";border-radius:75px;}
+.circle-01:after {top:60px;left:55px;background-color:#fff;}
+.circle-02:after {bottom:60px;right:55px;background-color:#000;}
